@@ -24,7 +24,7 @@ As a human-computer interaction designer and engineer, I strive to build meaning
 
 🌘 **AFFILIATION**<br/>
 Ph.D candidate, [Interactive Content Design (Kitamura・Takashima) Lab](https://www.icd.riec.tohoku.ac.jp/){:target="\_blank"}, <br/>
-Research Institute of Electric Communications, Tohoku University
+Research Institute of Electrical Communications, Tohoku University
 <br/><br/>
 
 🌗 **KEYWORDS**<br/>
