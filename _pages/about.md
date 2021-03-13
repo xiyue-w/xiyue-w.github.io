@@ -11,11 +11,10 @@ description:
 profile:
   align: right
   image: prof_pic.jpg
-  address: 
-  # >
-  #   <p>555 your office number</p>
-  #   <p>123 your address street</p>
-  #   <p>Your City, State 12345</p>
+  address: >
+    <p>My first academic experience -CHI'18 LBW</p>
+    <p>Email: xwang[at]riec.tohoku.ac.jp</p>
+    <p></p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -23,12 +22,14 @@ social: true  # includes social icons at the bottom of the page
 ---
 As a human-computer interaction designer and engineer, I strive to build meaningful relationships between people and the products and services that they use. My recent research focuses on technologies-enhanced tangibles that assist children’s developments and rehabilitation.
 
-**AFFILIATION**<br/>
+🌘 **AFFILIATION**<br/>
 Ph.D candidate, [Interactive Content Design (Kitamura・Takashima) Lab](https://www.icd.riec.tohoku.ac.jp/){:target="\_blank"}, <br/>
 Research Institute of Electric Communications, Tohoku University
+<br/><br/>
 
-**KEYWORDS**<br/>
+🌗 **KEYWORDS**<br/>
 Human-Computer Interaction; Tangible User Interfaces; Ubiquitous Computing; Affective Computing; Sensor Data Processing; Data Analytics; Machine Learning; Deep Learning; Health Care Information Systems
+<br/><br/>
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
