@@ -31,6 +31,7 @@ $grey-color-dark:     darken($grey-color, 25%);
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
 
-$aqua-color:          #00A3E1 !default;
-$aqua-color-light:    lighten($aqua-color, 35%);
+$aqua-color:          #11A7CD !default;
+//11A7CD, 00A3E1,5BC2E7,09CAC1
+$aqua-color-light:    lighten($aqua-color, 10%);
 $aqua-color-dark:     darken($aqua-color, 20%);

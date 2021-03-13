@@ -148,7 +148,7 @@ scholar:
   locale: en
 
   source: /_bibliography/
-  bibliography: papers.bib
+  bibliography: [papers.bib, papers_xw.bib, demos_xw.bib,talks_xw.bib]
   bibliography_template: bib
 
   replace_strings: true
