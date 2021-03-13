@@ -55,6 +55,7 @@ blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
+instagram_username: xixiix
 
 contact_note: 
 # >
@@ -67,7 +68,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name:  # your blog must have a name for it to show up in the nav bar
+blog_name:   # your blog must have a name for it to show up in the nav bar
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
