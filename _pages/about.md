@@ -20,11 +20,12 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-As a human-computer interaction designer and engineer, I strive to build meaningful relationships between people and the products and services that they use. My recent research focuses on technologies-enhanced tangibles that assist children’s developments and rehabilitation.
+As a human-computer interaction designer and engineer, I strive to build meaningful relationships between people and the products and services that they use. My recent research focuses on technologies-enhanced tangibles that support children’s mental health and well-being.
 
 🌘 **AFFILIATION**<br/>
-Ph.D candidate, [Interactive Content Design (Kitamura・Takashima) Lab](https://www.icd.riec.tohoku.ac.jp/){:target="\_blank"}, <br/>
-Research Institute of Electrical Communications, Tohoku University
+Ph.D candidate, [Interactive Content Design Lab](https://www.icd.riec.tohoku.ac.jp/){:target="\_blank"}, Research Institute of Electrical Communications
+<br/>
+Member of [Graduate Program in Data Science](http://gp-ds.tohoku.ac.jp/index_en.html){:target="\_blank"}, Tohoku University
 <br/><br/>
 
 🌗 **KEYWORDS**<br/>

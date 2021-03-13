@@ -12,13 +12,13 @@ nav: true
 ---
 
 <div class="publications">
-<h1>Journal / International Conference Papers</h1>
+<h1>Journal / International Conference Papers (peer-reviewed)</h1>
 {% for y in page.years_paper %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers_xw -q @*[year={{y}}]* %}
 {% endfor %}
 
-<h1>International Conference Poster / Demo / Workshop</h1>
+<h1>International Conference Poster / Demo / Workshop (peer-reviewed)</h1>
 {% for y in page.years_demo %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f demos_xw -q @*[year={{y}}]* %}
