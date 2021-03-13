@@ -12,7 +12,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>My first academic experience -CHI'18 LBW</p>
+    <p>Debut at conference  - CHI'18 LBW</p>
     <p>Email: xwang[at]riec.tohoku.ac.jp</p>
     <p></p>
 
