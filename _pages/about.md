@@ -20,7 +20,9 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-As a human-computer interaction designer and engineer, I strive to build meaningful relationships between people and the products and services that they use. My recent research focuses on technologies-enhanced tangibles that support children’s mental health and well-being.
+<!-- As a human-computer interaction designer and engineer, I strive to build meaningful relationships between people and the products and services that they use. My recent research focuses on technologies-enhanced tangibles that support children’s mental health and well-being. -->
+Living at the boundaries of art, design and engineering, I strive to light up our daily lives with support and inspiration from the technologies.
+My recent research focuses on sensor-enhanced tangibles that predict and support children’s daily mental health and well-being.
 
 🌘 **AFFILIATION**<br/>
 Ph.D candidate, [Interactive Content Design Lab](https://www.icd.riec.tohoku.ac.jp/){:target="\_blank"}, Research Institute of Electrical Communications
