@@ -44,7 +44,8 @@
           {% endif %}
 
           <!-- Other pages in _pages folder -->
-          {% assign sorted_pages = site.pages | sort: "title" %}
+          <!-- {% assign sorted_pages = site.pages | sort: "title" %} -->
+          {% assign sorted_pages = site.pages | sort: "order" %}
           {% for p in sorted_pages %}
           {% if p.nav and p.autogen == nil %}
           <li class="nav-item {% if page.title == p.title %}active{% endif %}">
@@ -60,9 +61,9 @@
           {% endfor %}
 
           <!-- CV link -->
-          <li class="nav-item">
+          <!-- <li class="nav-item">
             <a class="nav-link" href="https://xiyuewang.wixsite.com/home", target="_blank">artwork</a>
-          </li>
+          </li> -->
           <li class="nav-item">
             <a class="nav-link" href="{{ '/assets/pdf/XiyueWang_CV_2021_03_13.pdf' | prepend: site.baseurl | prepend: site.url }}">CV</a>
           </li>

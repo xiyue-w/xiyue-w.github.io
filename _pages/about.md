@@ -1,6 +1,7 @@
 ---
 layout: about
 title: about
+order: 0
 permalink: /
 description: 
 # "Ph.D candidate, Research Institute of Electric Communications, Tohoku University
