@@ -29,7 +29,7 @@ nav: false
 <div class="project-section">
   <p class="description">
   We present a 3D, layered, and interactive map, <strong>BentoMuseum</strong>, that allows blind visitors to learn the <strong>external structure</strong>, <strong>internal attractions</strong> and the <strong>route</strong>, <br>
-  to develop a <strong>mental map</strong> of a complex public space that contains a vast amount of information. <br></p>
+  to develop a <strong>mental map</strong> of a museum that contains a vast amount of information. <br></p>
   <div class="container">
     <div class="row">
       <div class="col-sm mt-3 mt-md-0">
