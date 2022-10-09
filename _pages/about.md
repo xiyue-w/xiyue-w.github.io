@@ -10,8 +10,8 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Debut at conference  - CHI'18 LBW</p>
-    <p>Email: xwang[at]riec.tohoku.ac.jp</p>
+    <p>Debut at a conference  - CHI'18 LBW</p>
+    <p>Email: xwang.xiyue[at]gmail.com</p>
     <p></p>
 
 news: true  # includes a list of news items
@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 Living at the boundaries of art, design and engineering, I strive to light up our daily lives with support and inspiration from the technologies.
-My recent research focuses on tangible interfaces that makes the museums accessible to people with vision impairments.
+My recent research focuses on tangible interfaces that make the museums accessible to people with vision impairments.
 <br/><br/>
 
 🌘 **AFFILIATION**<br/>

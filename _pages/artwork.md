@@ -1,14 +1,14 @@
 ---
 layout: default
 title: artworks
-order: 2
+order: 3
 permalink: /artworks/
 description: 
 nav: true
 ---
 
 <div class="publications"> 
-<h1>Live in Wonder</h1>
+<h1>Lives in Wonder</h1>
 
 <div style="text-align:center;" markdown="1">
 Checkout my multi-media works (2013-2015) [HERE](https://xiyuewang.wixsite.com/home){:target="_blank"}

@@ -1,13 +1,14 @@
 ---
-layout: page
+layout: project-overview
 title: projects
+order: 2
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false
+description: 
+# A growing collection of your cool projects.
+nav: true
 ---
 
 <div class="projects grid">
-
   {% assign sorted_projects = site.projects | sort: "importance" %}
   {% for project in sorted_projects %}
   <div class="grid-item">
@@ -21,7 +22,8 @@ nav: false
         <img src="{{ project.img | relative_url }}" alt="project thumbnail">
         {% endif %}
         <div class="card-body">
-          <h2 class="card-title text-lowercase">{{ project.title }}</h2>
+          <!-- <h2 class="card-title text-lowercase">{{ project.title }}</h2> -->
+          <h2 class="card-title">{{ project.title }}</h2>
           <p class="card-text">{{ project.description }}</p>
           <div class="row ml-1 mr-1 p-0">
             {% if project.github %}
