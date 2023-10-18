@@ -90,7 +90,7 @@
       <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
     {% endif %}
     {% if entry.html %}
-      <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button" target="_blank">HTML</a>
+      <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button" target="_blank">DOI</a>
     {% endif %}
     {% if entry.toappear %}
       <a href="" class="btn btn-sm z-depth-0" role="button" target="">to appear</a>
@@ -134,6 +134,9 @@
     {% endif %}
     {% if entry.video %}
       <a href="{{ entry.video }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Video</a>
+    {% endif %}
+    {% if entry.project %}
+      <a href="{{ entry.project }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Project Page</a>
     {% endif %}
     </div>
 
