@@ -10,7 +10,7 @@ nav: false
 <!-- Data -->
 <div class="project-social container text-center">
 <p class="description">
-Paper, code and 3D data are coming soon.
+Paper, code and 3D data coming soon.
  <br>
 Please contact Xiyue Wang (wang.xiyue[at]lab.miraikan.jst.go.jp) for more information.
 </p>
