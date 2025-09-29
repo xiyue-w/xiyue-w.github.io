@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2021-10-01 15:59:00-0400
-inline: true
+inline: false
 ---
 
 Started to work as an accessibility researcher for [Miraikan](https://www.miraikan.jst.go.jp/en/){:target="\_blank"}.
